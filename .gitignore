@@ -1,0 +1,9 @@
+unit_tests
+panoramix
+*.gcda
+*.gcno
+*.o
+*.temp
+coding-style-reports.log
+.vscode/
+src/temp.c
